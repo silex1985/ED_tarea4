@@ -1,5 +1,9 @@
 package cuentas;
 
+/**
+ * @author silvia
+ * Clase llamada CCuenta, que tiene una serie de atributos y métodos
+ */
 public class CCuenta {
 
 		private String nombre;
